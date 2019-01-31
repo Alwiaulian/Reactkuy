@@ -14,7 +14,7 @@ class Contents extends Component {
                         <Buttons text="Penelusuran Google" />
                     </div>
                     <div style={{padding: '0px 10px'}}>
-                        <Buttons text="Saya Lagi Beruntung" />
+                        <Buttons text="Saya ingin  Beruntung." />
                     </div>
                 </div>
                 <div style={{display:'flex',justifyContent:'center'}}>
